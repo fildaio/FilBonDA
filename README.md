@@ -24,7 +24,7 @@ The miner is still the Admin of the FilBonDA, and he still has control over the 
 
 
 
-##How to work?
+## How to work?
 
 FilDA will launch a lending market on FVM, and all FIL holders can deposit FIL into FILDA on the Filecoin network. And miners can convert their accounts to FilBonDA so that they can borrow from FilDA. Based on the terms of the smart contract, miners cannot escape, all borrowing is based on the sector pledge of the account, and all loans can only continue to be used for additional sector pledges. So the deposited FIL is safe. At the same time, as long as the miner repays the loan, he can switch the Owner at any time and leave FilBonDA, and his node is still his.
 
