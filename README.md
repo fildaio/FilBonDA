@@ -3,7 +3,7 @@ Lending and bond products for the Filecoin market, based on the FVM
 
 
 
-##Say “Hi”  to fil community 
+## Say “Hi”  to fil community 
 
 
 The FilDA project is a lending platform founded in 2021. It runs and deploys on multiple chains. The peak value of TVL exceeds 1 billion US dollars, and it is currently 20 million US dollars. The existing contract code has been audited by 6 auditing companies for many times. It has operated smoothly in many times of major market shocks and has not incurred bad debts.
@@ -12,7 +12,7 @@ We very much agree with the vision of FIL and are very optimistic about the mark
 
 
 
-##What's the FilBonDA?
+## What's the FilBonDA?
 
 FilBonDA is a smart contract account through which you can hold various assets and interests, even if these assets and interests are not transferable (SBT? aha), as long as they have recognized value, it can issue "bonds" for itself , to create credit. FilDA can issue loans for them.
 
@@ -32,13 +32,13 @@ FilDA will launch a lending market on FVM, and all FIL holders can deposit FIL i
 
 
 
-##Value to Filecoin Ecology
+## Value to Filecoin Ecology
 
 As far as I know, only 20% of FIL participates in staking mining, and the remaining 80% do not have much usage scenarios. The Filecoin Plus plan will become mainstream in the future, and 10x rewards also mean 10x pledges. How can miners and FIL holders unite to participate in the development of the Filecoin network? This is the value of FilBonDA.
 
 
 
-##What's the next? Layer 2 of Fliecoin!
+## What's the next? Layer 2 of Fliecoin!
 
 At present, the main computing power comes from proof of storage space. In the future, Filecoin will store more valuable data. These valuable data are the future of Filecoin. For these data, it should not only be saved by one node, but by 5 or even 10 nodes.
 The current data should not only be written but not read. Filecoin should have better read and write capabilities in the future.
@@ -51,7 +51,7 @@ To sum up, we hope that FilBonDA can develop a "layer 2" network in the second s
 
 
 
-##Contact us
+## Contact us
 
 Email: contact@filda.io
 
