@@ -5,13 +5,11 @@ FilBonDA, a FIL-native project initiated by FilDA Labs, aims to leverage the pot
 
 ## Value Proposition 
 
-
 For the benefit of FIL holders and miners, FilBonDA is here to address the issue of capital inefficiencies. 
 
 As is well known, only 20% of circulating FIL is used for stake mining, with the remaining 80% having few practical applications. Filecoin Storage Miners place a significant amount of FIL on the network, which is locked by the owner account and immobile, making the entire system capital inefficient. The traditional DeFi lending protocol like Compound or AAVE cannot solve this problem because it is based on an overcollateralization model. 
 
 In the future, the Filecoin Plus plan will be widely adopted, and 10x payouts also mean 10x commitments. How can miners and owners of FIL collaborate to advance the Filecoin network? This is what FilBonDA stands for.
-
 
 
 ## What is FilBonDA?
@@ -20,11 +18,10 @@ FilBonDA will introduce a non-custodian, decentralized, and dependent bond marke
 
 In order to borrow money from the market, miners can convert their accounts to FilBonDA. Miners are unable to evade the terms of the smart contract because all borrowing is based on the account's sector commitment and all loans may only be utilized to make new sector pledges. So the lent FIL is safe, and holders can lend their FIL in the bond markets with confidence. Once the miner has fully repaid the loan, he can switch the account back at any time to regain full control of the node. 
 
-![HowToWork](images/how_to_work.png)
-
-
 
 ## How does it work?
+
+![HowToWork](images/how_to_work.png)
 
 A Smart Contract Miner in FilBonDA is a smart contract account. Smart contracts make it possible to program features into the account, like multi-layer control over the miner node, or automatically sharing the mining rewards. 
 
